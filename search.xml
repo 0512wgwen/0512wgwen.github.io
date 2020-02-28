@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>测试博客</title>
+    <url>/2020/02/27/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h3 id="关于-每个仓库的-城市仓库-接口"><a href="#关于-每个仓库的-城市仓库-接口" class="headerlink" title="关于 每个仓库的 城市仓库 接口"></a>关于 每个仓库的 城市仓库 接口</h3><ul>
+<li>每个仓库由于后台配置不同 返回的城市仓库 （数据不同），即每个路由下的仓库 ，需要请求一次接口 保存一下当前仓库的数据<a id="more"></a></li>
+<li>每个仓库的在调拨发货退货等操作时，请求的城市仓库数据是 全部可操作的城市仓库数据，即需要单独请求一遍</li>
+<li>理解错了需求，造成 不删不行，删了可惜，太难了</li>
+</ul>
+<h3 id="2019-9-3-仓库-已完成-待优化功能"><a href="#2019-9-3-仓库-已完成-待优化功能" class="headerlink" title="2019.9.3 仓库 已完成 待优化功能"></a>2019.9.3 仓库 已完成 待优化功能</h3><ul>
+<li><input disabled="" type="checkbox"> 城市仓库问题 vuex</li>
+<li><input disabled="" type="checkbox"> 调拨 接口 不同仓库 接口地址 需要变动</li>
+<li><input disabled="" type="checkbox"> </li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/02/26/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener external nofollow noreferrer">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener external nofollow noreferrer">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener external nofollow noreferrer">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener external nofollow noreferrer">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre>
+<a id="more"></a>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener external nofollow noreferrer">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener external nofollow noreferrer">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener external nofollow noreferrer">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener external nofollow noreferrer">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
